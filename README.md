@@ -1,4 +1,7 @@
-This project is created to share a novelty method for tremor signal extraction from the seismic waveform and transient signal (e.g. earthquake) detection. It is especially useful for volcano seismology researches.
+# TREMExtractor-EQDetector
+[![DOI](https://zenodo.org/badge/490198425.svg)](https://zenodo.org/badge/latestdoi/490198425)
+
+TREMExtractor-EQDetector is a novelty method for tremor signal extraction from the seismic waveform and transient signal (e.g. earthquake) detection. It is especially useful for volcano seismology researches.
 
 There are two folders in the project as below: 
 
