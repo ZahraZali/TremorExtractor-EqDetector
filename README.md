@@ -1,7 +1,7 @@
 # TREMExtractor-EQDetector
 [![DOI](https://zenodo.org/badge/490198425.svg)](https://zenodo.org/badge/latestdoi/490198425)
 
-The relaed paper is 
+The related paper is 
 # Volcanic Tremor Extraction and Earthquake Detection Using Music Information Retrieval Algorithms
 https://doi.org/10.1785/0220210016
 
