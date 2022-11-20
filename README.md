@@ -1,7 +1,6 @@
 # TREMExtractor-EQDetector
 [![DOI](https://zenodo.org/badge/490198425.svg)](https://zenodo.org/badge/latestdoi/490198425)
 
-The related paper is 
 # Volcanic Tremor Extraction and Earthquake Detection Using Music Information Retrieval Algorithms
 https://doi.org/10.1785/0220210016
 
@@ -13,3 +12,7 @@ There are two folders in the repository as below:
 2- The "Transient signal detection" folder contains Python codes for:
 - Transient signal detection.
 - Detecting and timing earthquakes using the created characteristic function. The results of applying these algorithm to our one-day example are presented which are a marker file of detected earthquakes and a marker file of P-arrivals.
+
+## Contact
+
+* Author: Zahra Zali, zali@uni-potsdam.de
