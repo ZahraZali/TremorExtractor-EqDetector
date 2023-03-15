@@ -1,10 +1,10 @@
-# TREMExtractor-EQDetector
+# TremorExtractor-EqDetector
 [![DOI](https://zenodo.org/badge/490198425.svg)](https://zenodo.org/badge/latestdoi/490198425)
 
 # Volcanic Tremor Extraction and Earthquake Detection Using Music Information Retrieval Algorithms
 https://doi.org/10.1785/0220210016
 
-TREMExtractor-EQDetector is an algorithm for tremor signal extraction from the seismic waveform and transient signal (e.g. earthquake) detection. It is especially useful for volcano seismology researches.
+TremorExtractor-EqDetector is an algorithm for tremor signal extraction from the seismic waveform and transient signal (e.g. earthquake) detection. It is especially useful for volcano seismology researches.
 
 There are two folders in the repository as below: 
 
