@@ -46,6 +46,12 @@ When using this algorithm, please cite:
 
 ---
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
 ## Contact  
 
 **Author:** Zahra Zali  
