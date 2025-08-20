@@ -1,5 +1,6 @@
 # TremorExtractor-EqDetector  
 [![DOI](https://zenodo.org/badge/490198425.svg)](https://zenodo.org/badge/latestdoi/490198425)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
 
 **Volcanic Tremor Extraction and Earthquake Detection Using Music Information Retrieval Algorithms**  
 
